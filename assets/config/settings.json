@@ -106,6 +106,15 @@
                 ]
             },
             {
+                "tag": "Scripting Languages",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/config/intro"
+                    }
+                ]
+            },
+            {
                 "tag": "Building",
                 "children": [
                     {
