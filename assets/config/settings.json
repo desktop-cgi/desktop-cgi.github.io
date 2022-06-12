@@ -167,6 +167,11 @@
                 "link": "https://www.facebook.com/groups/732258757997109"
             },
             {
+                "tag": "Slack",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi"
+            },
+            {
                 "tag": "Discord",
                 "type": "external",
                 "link": "https://github.com/desktop-cgi/desktop-cgi"
