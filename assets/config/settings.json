@@ -55,14 +55,14 @@
                 "link": "/"
             },
             {
-                "tag": "Introduction",
-                "type": "internal",
-                "link": "/basics"
-            },
-            {
                 "tag": "Wiki",
                 "type": "internal",
                 "link": "/wiki"
+            },
+            {
+                "tag": "Introduction",
+                "type": "internal",
+                "link": "/basics"
             },
             {
                 "tag": "Application Needs",
