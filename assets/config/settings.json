@@ -115,6 +115,15 @@
                 ]
             },
             {
+                "tag": "Binaries Usage",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/config/intro"
+                    }
+                ]
+            },
+            {
                 "tag": "Building",
                 "children": [
                     {
