@@ -1,0 +1,160 @@
+{
+    "filetype": "markdown",
+    "home": {
+        "type": "landing",
+        "url": "/",
+        "highlight": {
+            "type": "text",
+            "img": "/assets/img/desktop-cgi.jpeg",
+            "heading": "Desktop-CGI Documentation",
+            "description": "",
+            "buttontext": "Desktop-CGI Introduction",
+            "buttonurl": "/intro"
+        },
+        "blocks": {
+            "heading": "Here is a quick read about the directions",
+            "items": [
+                {
+                    "title": "Users Reference",
+                    "description": "A simple developers reference",
+                    "url": "https://desktop-cgi.github.io/#/documentation"
+                },
+                {
+                    "title": "API Reference",
+                    "description": "Detailed developers reference",
+                    "url": "https://desktop-cgi.github.io/#/apireference"
+                }
+            ]
+        }
+    },
+    "topnav": {
+        "brandname": " { desktop-cgi } ",
+        "logo": "/assets/img/logo.png",
+        "nav": [
+            {
+                "tag": "Users Reference",
+                "type": "internal",
+                "link": "/documentation"
+            },
+            {
+                "tag": "API Reference",
+                "type": "internal",
+                "link": "/apireference"
+            },
+            {
+                "tag": "Github",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi"
+            }
+        ]
+    },
+    "sidebar": {
+        "nav": [
+            {
+                "tag": "Home",
+                "link": "/"
+            },
+            {
+                "tag": "Desktop-CGI Introduction",
+                "type": "internal",
+                "link": "/intro"
+            },
+            {
+                "tag": "Project Structure",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/application/intro"
+                    }
+                ]
+            },
+            {
+                "tag": "Electron Context",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/electron/intro"
+                    }
+                ]
+            },
+            {
+                "tag": "Express Layer",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/express/intro"
+                    }
+                ]
+            },
+            {
+                "tag": "Config.JSON",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/config/intro"
+                    }
+                ]
+            },
+            {
+                "tag": "Building",
+                "children": [
+                    {
+                        "tag": "Introduction",
+                        "link": "/build/intro"
+                    }
+                ]
+            },
+            {
+                "tag": "Issues",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi/issues"
+            },
+            {
+                "tag": "Github",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi"
+            }
+        ]
+    },
+    "footer": {
+        "copyright": {
+            "tag": " { desktop-cgi } ",
+            "link": "https://github.com/desktop-cgi/desktop-cgi",
+            "type": "external",
+            "text": "Made with ngDocumentor"
+        },
+        "nav": [],
+        "social": [
+            {
+                "tag": "Github",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi"
+            },
+            {
+                "tag": "Quora",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi"
+            },
+            {
+                "tag": "Facebook",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi"
+            },
+            {
+                "tag": "Discord",
+                "type": "external",
+                "link": "https://github.com/desktop-cgi/desktop-cgi"
+            }
+        ]
+    },
+    "search": {
+        "type": "keywords",
+        "stopwords": [],
+        "meta": [
+            {
+                "url": "/intro",
+                "keywords": []
+            }
+        ]
+    }
+}
