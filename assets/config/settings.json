@@ -111,8 +111,15 @@
                     {
                         "tag": "Introduction",
                         "link": "/build/intro"
+                    },{
+                        "tag": "Building",
+                        "link": "/build/intro"
                     }
                 ]
+            },
+            {
+                "tag": "Releases",
+                "link": "/releases"
             },
             {
                 "tag": "Issues",
