@@ -55,7 +55,7 @@
                 "link": "/"
             },
             {
-                "tag": "Desktop-CGI Introduction",
+                "tag": "Introduction",
                 "type": "internal",
                 "link": "/intro"
             },
@@ -87,7 +87,7 @@
                 ]
             },
             {
-                "tag": "Config.JSON",
+                "tag": "config.json",
                 "children": [
                     {
                         "tag": "Introduction",
